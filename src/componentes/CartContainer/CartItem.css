@@ -1,0 +1,37 @@
+.targetaCart{
+width: 800px;
+height: 100px;
+padding: 0px 30px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+background-color: #7e7e7e91 ;
+}
+
+.espaciadoCart{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textoCartItem{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+
+.buttonRemove{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border: none;
+    border-radius: 20%;
+    color: aliceblue;
+    font-weight: 900;
+}
+
+.minimizado{
+    height: 30px;
+    padding-top: 10px;
+}

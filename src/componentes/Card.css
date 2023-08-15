@@ -1,0 +1,78 @@
+.estiloCard {
+    background-color: #7e7e7e91 ;
+    padding: 50px 10px 30px 10px;
+    border-radius: 10px;
+    width: 300px;
+    position: relative;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+    display: block;
+}
+
+.estiloCard__title {
+    text-align: center;
+    width: 100%;
+    background-color: #1fff0f;
+    box-shadow: 0 0 7px rgba(31, 255, 15, 6);
+    position: relative;
+    top: 35px;
+    z-index: 1;
+    padding: 10px 0px;
+    border-radius: 10px 10px 0px 0px;
+    text-transform: uppercase;
+    letter-spacing: .15em;
+}
+
+.estiloCard__img {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    margin-bottom: 20px;
+}
+
+.estiloImagen {
+    border-radius: 5px;
+}
+
+.estiloCard__PrecioYDescripcion {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+
+.estiloCard__precio {
+    color: #f1f1f1;
+    text-shadow: 0px 0px 8px black;
+    font-size: 27px;
+    position: relative;
+    top: -5px;
+    right: 6%;
+}
+
+.estiloCard__boxPrecio{
+    flex-direction: column;
+}
+
+.estiloCard__desc {
+    width: 100%;
+    color: #ebebeb;
+    text-shadow: 0px 0px 8px black;
+    letter-spacing: .05em;
+}
+
+.estiloCard__Contador {
+    display: flex;
+    flex-direction: row;
+    width: 280px;
+    justify-content: space-around;
+    padding-top: 10px;
+    border-top: 1px solid #636363;
+}
+
+.margenLeft{
+    margin-left: 10px;
+}
+
+.ultimoDisponible{
+    max-height: 20px;
+    min-height: 20px;
+}

@@ -1,0 +1,48 @@
+.navItemStyle {
+    height: 100%;
+    color: black;
+    font-weight: 500;
+    display: grid;
+    place-items: center;
+    position: relative;
+    cursor: pointer;
+}
+@media screen and (max-width:720px) {
+    .fullWidth{
+        width: 100vw;
+        display: grid;
+        place-items: center;
+    }
+}
+
+.navItemStyle:hover{
+    scale: 1.1;
+    transition: .3s;
+}
+
+.navItemStyle:hover > :not(:hover){
+    opacity: .4;
+}
+
+
+.navItemStyle:hover::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    width: 100%;
+    height: 3px;
+    border-radius: 5px;
+    background-color: black;
+    animation: Nav .5s ease;
+}
+
+@keyframes Nav {
+    0%{
+        width: 0;
+        left: 0;
+    }
+    100%{
+        width: 100%;
+        left: 0%;
+    }
+}

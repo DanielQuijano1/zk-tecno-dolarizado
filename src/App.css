@@ -1,0 +1,5 @@
+.estiloAll{
+    background-image: url(./../public/imagen404/26175-nebula-space.jpg);
+    background-attachment: fixed;
+    min-height: 100vh;
+}

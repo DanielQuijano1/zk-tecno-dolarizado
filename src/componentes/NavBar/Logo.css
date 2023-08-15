@@ -1,0 +1,125 @@
+:root {
+    --greenZK: #1fff0f;
+    --greyZK: grey;
+    --skygreyZK: rgb(197, 197, 197);
+    --shadowGreen: 0 0 7px rgba(31, 255, 15, 6);
+}
+
+
+.logo {
+    position: relative;
+    margin-left: 10%;
+    bottom: -10px;
+}
+
+
+
+.logoA {
+    position: absolute;
+    top: -5px;
+    width: 17px;
+    height: 30px;
+    background-color: var(--greyZK);
+    transform: skewX(-29deg);
+    z-index: 3;
+}
+
+.logoAGreenAfter {
+    position: absolute;
+    top: -18px;
+    left: -7px;
+    width: 17px;
+    height: 30px;
+    transform: skewX(-30deg);
+    box-shadow: var(--shadowGreen);
+    background-color: var(--greenZK);
+    z-index: 1;
+}
+
+.logoAGreenBefore {
+    position: absolute;
+    top: 7px;
+    left: -13px;
+    width: 15px;
+    height: 15px;
+    transform: rotate(50deg);
+    box-shadow: var(--shadowGreen);
+    background-color: var(--greenZK);
+    z-index: 1;
+}
+
+.logoAGrey{
+    position: absolute;
+    top: -5px;
+    left: 30px;
+    width: 20px;
+    height: 20px;
+    background-color: var(--skygreyZK);
+    z-index: 3;
+}
+
+
+
+
+.logoB {
+    position: absolute;
+    top: -19px;
+    left: 24px;
+    width: 17px;
+    height: 30px;
+    background-color: var(--greyZK);
+    transform: skewX(-30deg);
+    z-index: 3;
+}
+
+.logoBGreenAfter {
+    position: absolute;
+    transform: skew(-30deg);
+    background-color: var(--greenZK);
+    box-shadow: var(--shadowGreen);
+}
+
+.logoBGreenBefore {
+    position: absolute;
+    top: -22px;
+    left: 20px;
+    width: 15px;
+    height: 15px;
+    transform: rotate(30deg);
+    box-shadow: var(--shadowGreen);
+    background-color: var(--greenZK);
+    z-index: 1;
+}
+
+.logoCGrey{
+
+}
+
+
+.logoC {
+    position: absolute;
+    top: 10px;
+    left: 28px;
+    width: 17px;
+    height: 15px;
+    background-color: var(--greyZK);
+    transform: skewX(-30deg);
+    z-index: 3;
+}
+
+.logoCGreenAfter {
+    position: absolute;
+    top: 6px;
+    left: 18px;
+    width: 17px;
+    height: 15px;
+    transform: rotate(60deg);
+    background-color: var(--greenZK);
+    box-shadow: var(--shadowGreen);
+    z-index: 1;
+}
+
+.logoCGreenBefore {
+    position: absolute;
+    box-shadow: var(--shadowGreen);
+}
