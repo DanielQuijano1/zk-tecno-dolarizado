@@ -1,10 +1,11 @@
 import React from "react";
-import ItemCount from "../ItemCount/ItemCount";
 import "./../Button/Button.css"
 import "./ItemDetail.css"
+/*
 import { Link } from "react-router-dom";
 import Button from "../Button/Button";
-
+import ItemCount from "../ItemCount/ItemCount";
+*/
 function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart }) {
 
     return (
@@ -20,7 +21,16 @@ function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart 
                         </div>
                         <h3 className="estiloCard__precio">${precio}</h3>
                     </div>
-                    <div>
+
+                </div>
+            </div>
+        </div>
+    )
+}
+
+export default ItemDetail;
+
+/*<div>
                         {isInCart ?
                             <Link to="/cart" >
                                 <Button className="styleButton" text="Ir Al Carrito"></Button>
@@ -29,10 +39,4 @@ function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart 
                             <ItemCount className="boton__detail" stock={stock} onAddToCart={onAddToCart} />
                         }
                     </div>
-                </div>
-            </div>
-        </div>
-    )
-}
-
-export default ItemDetail;
+                    */

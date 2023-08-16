@@ -10,7 +10,6 @@ function CartProvider(props) {
     const [cart, setCart] = useState([])
 
     function addToCart(item) {
-        let isInCart = cart.findIndex(itemInCart => itemInCart.id === item.id);
         let newCart = cart.map(item => item);
         newCart.push(item)
         setCart(newCart)

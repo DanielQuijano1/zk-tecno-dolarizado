@@ -1,11 +1,22 @@
 .estiloCard {
-    background-color: #7e7e7e91 ;
-    padding: 50px 10px 30px 10px;
+    background-color: #7e7e7e91;
+    padding: 20px 100px;
     border-radius: 10px;
-    width: 300px;
+    width: 80%;
+    height: 100px;
     position: relative;
     box-shadow: 0 0 5px rgba(0, 0, 0, .3);
-    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.box-dimension {
+    width: 25%;
+    display: grid;
+    place-content: center;
 }
 
 .estiloCard__title {
@@ -23,10 +34,15 @@
 }
 
 .estiloCard__img {
-    width: 100%;
+    height: 100%;
     display: grid;
     place-items: center;
     margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100px;
 }
 
 .estiloImagen {
@@ -48,7 +64,7 @@
     right: 6%;
 }
 
-.estiloCard__boxPrecio{
+.estiloCard__boxPrecio {
     flex-direction: column;
 }
 
@@ -68,11 +84,21 @@
     border-top: 1px solid #636363;
 }
 
-.margenLeft{
+.margenLeft {
     margin-left: 10px;
 }
 
-.ultimoDisponible{
+.ultimoDisponible {
     max-height: 20px;
     min-height: 20px;
+}
+
+@media screen and (max-width:720px) {
+    .estiloCard {
+        width: 100%;
+        padding: 10px 10px;
+    }
+    .estiloCard__desc{
+        width: 30%;
+    }
 }

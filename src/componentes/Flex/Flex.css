@@ -5,7 +5,14 @@
     min-height:100%;
     justify-content: space-around;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    flex-wrap: nowrap;
     gap: 20px;
 }
 
+@media screen and (max-width:720px) {
+    .estiloFlex{
+        max-width: 95vw;
+        margin: 0;
+    }
+}
