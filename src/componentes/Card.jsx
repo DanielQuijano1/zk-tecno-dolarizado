@@ -25,7 +25,7 @@ function Card(props) {
                 {windowsSize > 700 ?
                     <>
                         <div className="estiloCard__desc box-dimension">
-                            <small>{id} . {title}</small>
+                            <small>{title}</small>
                         </div >
                         <div className="estiloCard__boxPrecio box-dimension">
                             <h3 className="estiloCard__precio">U$D  {precioDolar()}</h3>
