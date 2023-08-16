@@ -22,9 +22,9 @@ function Card(props) {
                 <div className="estiloCard__img box-dimension">
                     <img className="estiloImagen" src={img} alt={title} />
                 </div>
-                
+
                 <div className="estiloCard__desc box-dimension">
-                    <small>{title}</small>
+                    <small>{id} . {title}</small>
                 </div>
                 <div className="estiloCard__boxPrecio box-dimension">
                     <h3 className="estiloCard__precio">U$D{precioDolar()}</h3>
