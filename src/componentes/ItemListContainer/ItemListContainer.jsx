@@ -7,7 +7,7 @@ import Flex from "../Flex/Flex";
 import { obtenerProductoPorCategoria } from "../../services/MockService";
 import Loader from "../Loader/Loeader";
 
-function ItemListContainer() {
+function ItemListContainer({windowsSize}) {
     const [productos, setProductos] = useState([]);
     const [isLoading, setIsLoading] = useState(true)
     const [textoAlerta, setTextoAlerta] = useState()
@@ -45,7 +45,7 @@ function ItemListContainer() {
                     : (
                         <>
                             <Flex>
-                                {productos.map((item) => <Card key={item.id} item={item} />)}
+                                {productos.map((item) => <Card key={item.id} item={item} windowsSize={windowsSize} />)}
                             </Flex>
                         </>
                     )

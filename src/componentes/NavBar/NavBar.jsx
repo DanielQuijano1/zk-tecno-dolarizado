@@ -15,7 +15,7 @@ function NavBar(props) {
 
     const links = [
         { title: "TIENDA", url: "/" },
-        { title: "SERVICIO TECNICO", url: "/asd" },
+        { title: "SERVICIO TECNICO", url: "/serviciotecnico" },
         { title: "RECOMENDACIONES", url: "/asdasd" },
         { title: "SOBRE NOSOTROS", url: "/asdasd" },
         { title: "CONTACTANOS", url: "/sadsad" },
@@ -39,13 +39,3 @@ function NavBar(props) {
 }
 
 export default NavBar;
-
-
-/*
-{title:"CABLES", url:"/"}, 
-        {title:"CARGADORES", url:"/"}, 
-        {title:"ADAPTADORES",url:"/"}, 
-        {title:"PARLANTES",url:"/"}, 
-        {title:"FUNDAS",url:"/"}, 
-        {title:"ACCESORIOS PC", url:"/"}
-*/
