@@ -6,7 +6,15 @@ import { Link } from "react-router-dom";
 import Button from "../Button/Button";
 import ItemCount from "../ItemCount/ItemCount";
 */
-function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart }) {
+function ItemDetail({ title, img, detalle, precio }) {
+
+    function precioDolar() {
+        return precio * 2
+    }
+
+    function precioArs() {
+        return Math.ceil(precioDolar() * 850)
+    }
 
     return (
         <div className="estiloCard__flex">
@@ -15,13 +23,11 @@ function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart 
                     <div className="estiloCard__imgDetail">
                         <img className="estiloImagen__detail" height="200px" src={img} alt={title} />
                     </div>
-                    <div className="estiloCard__PrecioYDescripcion margenLeft paddingBottom">
-                        <div className="estiloCard__desc">
-                            <small>{detalle}</small>
-                        </div>
-                        <h3 className="estiloCard__precio">${precio}</h3>
+                    <div className="estiloCard__desc paddBottom30px">
+                        <small>{detalle}</small>
                     </div>
-
+                    <h3 className="estiloCard__precio textCenter">U$D  {precioDolar()}</h3>
+                    <h3 className="estiloCard__precio textCenter">AR$  {precioArs()}</h3>
                 </div>
             </div>
         </div>
@@ -29,14 +35,3 @@ function ItemDetail({ title, img, detalle, precio, stock, onAddToCart, isInCart 
 }
 
 export default ItemDetail;
-
-/*<div>
-                        {isInCart ?
-                            <Link to="/cart" >
-                                <Button className="styleButton" text="Ir Al Carrito"></Button>
-                            </Link>
-                            :
-                            <ItemCount className="boton__detail" stock={stock} onAddToCart={onAddToCart} />
-                        }
-                    </div>
-                    */

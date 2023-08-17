@@ -35,7 +35,7 @@ function Card(props) {
                     :
                     <div className="displayBlock">
                         <div className="estiloCard__desc boxDetail">
-                            <small>{id} . {title}</small>
+                            <small>{title}</small>
                         </div >
                         <div className="estiloCard__boxPrecio boxDetail">
                             <h3 className="estiloCard__precio">U$D  {precioDolar()}</h3>
