@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Categories.css";
 
-function Categories(props) {
+function Categories() {
     return (
         <div className="estiloCategorias">
             <nav className="estiloCategorias_nav">
@@ -26,13 +26,3 @@ function Categories(props) {
 
 export default Categories;
 
-
-/*
-cables
-cargadores
-auriculares
-adaptadores
-accesorios pc
-accesorios celulares
-otros
-*/

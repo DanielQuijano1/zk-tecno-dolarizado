@@ -1,18 +1,10 @@
 import React from "react";
 import NavItem from "./NavItem";
 import Logo from "./Logo";
-import CartWidget from "./CartWidget";
 import "./NavBar.css";
-import { useContext } from "react";
-import { cartContext } from "../../storage/cartContext";
-import { Link } from "react-router-dom";
 
 
 function NavBar(props) {
-
-    const context = useContext(cartContext);
-    context.test();
-
     const links = [
         { title: "TIENDA", url: "/" },
         { title: "SERVICIO TECNICO", url: "/serviciotecnico" },
@@ -24,16 +16,13 @@ function NavBar(props) {
     return (
         <div className="miEstilo css-selector">
             <div className="estiloLogo">
-                <Logo></Logo>
+                <Logo/>
             </div>
             <nav>
                 <ul className="estiloUl">
                     {links.map((elemento) => (<NavItem key={elemento.title} href={elemento.url} title={elemento.title} />))}
                 </ul>
             </nav>
-            <Link to="/cart">
-                <CartWidget />
-            </Link>
         </div>
     )
 }
