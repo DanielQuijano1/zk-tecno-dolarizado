@@ -1,0 +1,1727 @@
+[
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A10",
+        "precio": 21
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A01M",
+        "precio": 17
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A01F",
+        "precio": 15
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A01 CORE",
+        "precio": 18
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A02",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A02S",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A03",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A03S",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A03 CORE",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A04",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A04E",
+        "precio": 29
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A04S",
+        "precio": 29
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A10S",
+        "precio": 21
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A11",
+        "precio": 21
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A12 A125F",
+        "precio": 21
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "M12",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A12 A032F",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A12 A127F",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A13 4G",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A14 4G",
+        "precio": 26
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A14 5G",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A20 OLED",
+        "precio": 34
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A20 ORIGINAL",
+        "precio": 70
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A20S",
+        "precio": 21
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A21",
+        "precio": 18
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A21S OLED",
+        "precio": 20
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A21S ORIGINAL",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A22 4G LTE",
+        "precio": 65
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A22 5G",
+        "precio": 22
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A23 4G",
+        "precio": 23
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A23 5G",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A30 OLED",
+        "precio": 34
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A30 ORIGINAL",
+        "precio": 85
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A30S OLED",
+        "precio": 34
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A30S ORIGINAL",
+        "precio": 76
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A31 OLED",
+        "precio": 38
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A32 OLED",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A32 ORIGINAL",
+        "precio": 88
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A33",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A40",
+        "precio": 35
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A50 OLED",
+        "precio": 34
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A50 ORIGINAL",
+        "precio": 90
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A51 OLED",
+        "precio": 45
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A51 ORIGINAL",
+        "precio": 90
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A52 OLED",
+        "precio": 65
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A52 ORIGINAL",
+        "precio": 105
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A53",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A54",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A70 OLED",
+        "precio": 60
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A70 ORIGINAL",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A71",
+        "precio": 125
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A72",
+        "precio": 105
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A80",
+        "precio": 75
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S6 FLAT",
+        "precio": 50
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S6 EDGE",
+        "precio": 55
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S7 FLAT",
+        "precio": 55
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S7 EDGE",
+        "precio": 100
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S8",
+        "precio": 140
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S8 PLUS",
+        "precio": 150
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S9",
+        "precio": 100
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S9 PLUS",
+        "precio": 150
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S10",
+        "precio": 200
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S10E",
+        "precio": 130
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S10 PLUS",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S20",
+        "precio": 200
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S20FE",
+        "precio": 165
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S20 PLUS",
+        "precio": 230
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S20 ULTRA",
+        "precio": 190
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S21 PLUS",
+        "precio": 200
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S21 ULTRA",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S22 ULTRA",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "S23 ULTRA",
+        "precio": 0
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J1 ACE",
+        "precio": 19
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J2",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J2 CORE",
+        "precio": 18
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J2 PRO",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J3 2016",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J4",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J4 PLUS",
+        "precio": 16
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J4 CORE",
+        "precio": 16
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 OLED",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 ORIGINAL",
+        "precio": 30
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 2016 OLED",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 2016 ORIGINAL",
+        "precio": 30
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 PRIME",
+        "precio": 16
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J5 PRO",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J700",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J7 2016",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J7 NEO",
+        "precio": 26
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J7 PRIME",
+        "precio": 16
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J7 PRO",
+        "precio": 28
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J6",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J6 PLUS",
+        "precio": 16
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "J8",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "NOTE 9",
+        "precio": 150
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "NOTE 10 PLUS",
+        "precio": 230
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "NOTE 10 LITE",
+        "precio": 230
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "NOTE 20 ULTRA",
+        "precio": 330
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A5 2015",
+        "precio": 28
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A5 2016 OLED",
+        "precio": 30
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A5 2016 ORIGINAL",
+        "precio": 35
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A5 2017",
+        "precio": 33
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A7",
+        "precio": 35
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A7 2016",
+        "precio": 35
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A7 2017 OLED",
+        "precio": 33
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A7 2017 ORIGINAL",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A7 2018",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A8 2018",
+        "precio": 44
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A8 PLUS",
+        "precio": 60
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A6",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "A6 PLUS",
+        "precio": 40
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "M10",
+        "precio": 14
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "M20",
+        "precio": 24
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "M23 46",
+        "precio": 25
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "M30",
+        "precio": 65
+    },
+    {
+        "marca": "SAMSUNG",
+        "modelo": "Z FLIP 3",
+        "precio": 0
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "C",
+        "precio": 16
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "C PLUS",
+        "precio": 17
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E2",
+        "precio": 9
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E4 PLUS",
+        "precio": 22
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E5",
+        "precio": 20
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E5 PLAY GO",
+        "precio": 15
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E5 PLUS",
+        "precio": 17
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E6 PLUS",
+        "precio": 19
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E6 PLAY",
+        "precio": 13
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E6S",
+        "precio": 20
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E6I",
+        "precio": 20
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7 (6.5)",
+        "precio": 15
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7",
+        "precio": 30
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7I",
+        "precio": 15
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7 POWER",
+        "precio": 23
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7I POWER",
+        "precio": 30
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E7 PLUS",
+        "precio": 30
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E13",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E20",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E22",
+        "precio": 28
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E22I",
+        "precio": 28
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E30",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E32",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "E40",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G2",
+        "precio": 10
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G4",
+        "precio": 16
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G4 PLAY",
+        "precio": 12
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G4 PLUS",
+        "precio": 16
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G5",
+        "precio": 12
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G5S",
+        "precio": 10
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G5 PLUS",
+        "precio": 17
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G5S PLUS",
+        "precio": 18
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G6",
+        "precio": 17
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G6 PLUS",
+        "precio": 21
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G6 PLAY",
+        "precio": 20
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G7",
+        "precio": 22
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G7 PLUS",
+        "precio": 22
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G7 PLAY",
+        "precio": 26
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G7 POWER",
+        "precio": 25
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G8",
+        "precio": 25
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G8 PLAY",
+        "precio": 24
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G8 PLUS",
+        "precio": 34
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G8 POWER",
+        "precio": 23
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G8 POWER LITE",
+        "precio": 23
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G9 PLAY",
+        "precio": 28
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G9 PLUS",
+        "precio": 37
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G9 POWER",
+        "precio": 37
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G13",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G20",
+        "precio": 28
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G22",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G23",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G30",
+        "precio": 37
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G30",
+        "precio": 27
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G31",
+        "precio": 40
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G32",
+        "precio": 33
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G41",
+        "precio": 40
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G42",
+        "precio": 60
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G51",
+        "precio": 35
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G52",
+        "precio": 60
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G60S",
+        "precio": 38
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G71",
+        "precio": 60
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G82",
+        "precio": 60
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G100",
+        "precio": 45
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "G200",
+        "precio": 38
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE",
+        "precio": 27
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE VISION",
+        "precio": 54
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE ACTION",
+        "precio": 54
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE ZOOM",
+        "precio": 40
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE MACRO",
+        "precio": 24
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE HYPER",
+        "precio": 24
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "ONE FUSION",
+        "precio": 23
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "X STYLUS",
+        "precio": 25
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "Z",
+        "precio": 40
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "Z PLAY",
+        "precio": 37
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "Z2 PLAY",
+        "precio": 37
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "Z3 PLAY",
+        "precio": 44
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE",
+        "precio": 0
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 20 LITE",
+        "precio": 110
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 20 PRO",
+        "precio": 60
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 30",
+        "precio": 90
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 30 NEO",
+        "precio": 90
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 30 PRO",
+        "precio": 90
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 30 FUSION",
+        "precio": 96
+    },
+    {
+        "marca": "MOTOROLA",
+        "modelo": "EDGE 30 ULTRA",
+        "precio": 105
+    },
+    {
+        "marca": "LG",
+        "modelo": "K4 2017",
+        "precio": 17
+    },
+    {
+        "marca": "LG",
+        "modelo": "K8 2016",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "K8 2017",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "K10 TV V03",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "K10 2017",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "G5",
+        "precio": 13
+    },
+    {
+        "marca": "LG",
+        "modelo": "Q6",
+        "precio": 25
+    },
+    {
+        "marca": "LG",
+        "modelo": "LEON",
+        "precio": 15
+    },
+    {
+        "marca": "LG",
+        "modelo": "SPIRIT",
+        "precio": 15
+    },
+    {
+        "marca": "LG",
+        "modelo": "K5",
+        "precio": 13
+    },
+    {
+        "marca": "LG",
+        "modelo": "K9",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "K11 PLUS",
+        "precio": 21
+    },
+    {
+        "marca": "LG",
+        "modelo": "K20",
+        "precio": 18
+    },
+    {
+        "marca": "LG",
+        "modelo": "K22",
+        "precio": 21
+    },
+    {
+        "marca": "LG",
+        "modelo": "K22 PLUS",
+        "precio": 21
+    },
+    {
+        "marca": "LG",
+        "modelo": "K40",
+        "precio": 28
+    },
+    {
+        "marca": "LG",
+        "modelo": "K40S",
+        "precio": 25
+    },
+    {
+        "marca": "LG",
+        "modelo": "K41S",
+        "precio": 23
+    },
+    {
+        "marca": "LG",
+        "modelo": "K42",
+        "precio": 22
+    },
+    {
+        "marca": "LG",
+        "modelo": "K50",
+        "precio": 30
+    },
+    {
+        "marca": "LG",
+        "modelo": "K50S",
+        "precio": 25
+    },
+    {
+        "marca": "LG",
+        "modelo": "K51S",
+        "precio": 23
+    },
+    {
+        "marca": "LG",
+        "modelo": "K52",
+        "precio": 20
+    },
+    {
+        "marca": "LG",
+        "modelo": "K60",
+        "precio": 30
+    },
+    {
+        "marca": "LG",
+        "modelo": "K61",
+        "precio": 31
+    },
+    {
+        "marca": "LG",
+        "modelo": "Q60",
+        "precio": 30
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P8 LITE 2017",
+        "precio": 15
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P9",
+        "precio": 19
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P9 LITE",
+        "precio": 18
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P10",
+        "precio": 23
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P20 LITE",
+        "precio": 22
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P30 LITE",
+        "precio": 28
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P SMART 2018",
+        "precio": 21
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P SMART 2019",
+        "precio": 25
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "P9 LITE SMART",
+        "precio": 10
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y6",
+        "precio": 15
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y6-2, GW",
+        "precio": 15
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y6 2019",
+        "precio": 15
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y7, GW METAL",
+        "precio": 18
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y7 2018",
+        "precio": 18
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y7 2019",
+        "precio": 21
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y9 2019",
+        "precio": 22
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "Y9 PRIME",
+        "precio": 22
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 7",
+        "precio": 26
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 8",
+        "precio": 26
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 9",
+        "precio": 26
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 9 LITE",
+        "precio": 16
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 10",
+        "precio": 25
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 10 LITE",
+        "precio": 18
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "MATE 20 LITE",
+        "precio": 25
+    },
+    {
+        "marca": "HUAWEI",
+        "modelo": "G8 RIO",
+        "precio": 17
+    },
+    {
+        "marca": "SONY",
+        "modelo": "ZL",
+        "precio": 3
+    },
+    {
+        "marca": "SONY",
+        "modelo": "Z1",
+        "precio": 10
+    },
+    {
+        "marca": "SONY",
+        "modelo": "Z4",
+        "precio": 10
+    },
+    {
+        "marca": "SONY",
+        "modelo": "M5",
+        "precio": 15
+    },
+    {
+        "marca": "SONY",
+        "modelo": "XA1 PLUS",
+        "precio": 22
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "IDOL 2",
+        "precio": 5
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "ONE",
+        "precio": 18
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1X",
+        "precio": 21
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1S",
+        "precio": 21
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1SE",
+        "precio": 25
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1V",
+        "precio": 25
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1V PLUS",
+        "precio": 25
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "1L",
+        "precio": 27
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "3X",
+        "precio": 27
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "3H",
+        "precio": 25
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "3H PLUS",
+        "precio": 28
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "5H",
+        "precio": 25
+    },
+    {
+        "marca": "ALCATEL",
+        "modelo": "5H PLUS",
+        "precio": 28
+    },
+    {
+        "marca": "TCL",
+        "modelo": "305/30E/30SE",
+        "precio": 28
+    }, 
+    {
+        "marca": "TCL",
+        "modelo": "20SE",
+        "precio": 28
+    },
+    {
+        "marca": "TCL",
+        "modelo": "20Y",
+        "precio": 25
+    },
+    {
+        "marca": "TCL",
+        "modelo": "20E",
+        "precio": 25
+    },
+    {
+        "marca": "TCL",
+        "modelo": "20B",
+        "precio": 28
+    },
+    {
+        "marca": "TCL",
+        "modelo": "405 Y 408",
+        "precio": 30
+    }, 
+    {
+        "marca": "TCL",
+        "modelo": "L10 LITE",
+        "precio": 25
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "1.3",
+        "precio": 19
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "2.3",
+        "precio": 20
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "2.4",
+        "precio": 20
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "3.1",
+        "precio": 22
+    }, 
+    {
+        "marca": "NOKIA",
+        "modelo": "5.1",
+        "precio": 22
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "7.1",
+        "precio": 0
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "7.1 PLUS",
+        "precio": 23
+    },
+    {
+        "marca": "NOKIA",
+        "modelo": "630",
+        "precio": 5
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "5S",
+        "precio": 15
+    }, 
+    {
+        "marca": "IPHONE",
+        "modelo": "5SE",
+        "precio": 15
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "5C",
+        "precio": 15
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "6G",
+        "precio": 16
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "6S",
+        "precio": 16
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "6S PLUS",
+        "precio":  17
+    }, 
+    {
+        "marca": "IPHONE",
+        "modelo": "6G PLUS",
+        "precio": 17
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "7G",
+        "precio": 18
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "7 PLUS",
+        "precio": 26
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "8G",
+        "precio": 18
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "8 PLUS",
+        "precio": 19
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "X OLED GX",
+        "precio": 50
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "X AMOLED",
+        "precio": 30
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "XR",
+        "precio": 30
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "XS",
+        "precio": 30
+    }, 
+    {
+        "marca": "IPHONE",
+        "modelo": "XS MAX",
+        "precio": 70
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "11 AMOLED",
+        "precio": 35
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "11 AMPSENTRIX",
+        "precio": 48
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "11 PRO OLED GX",
+        "precio": 58
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "11 PRO MAX",
+        "precio": 82
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "12",
+        "precio": 100
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "12 PRO",
+        "precio": 100
+    },
+    {
+        "marca": "IPHONE",
+        "modelo": "12 PRO MAX",
+        "precio": 155
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "A1",
+        "precio": 16
+    }, 
+    {
+        "marca": "XIOMI",
+        "modelo": "A2",
+        "precio": 18
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "A2 LITE",
+        "precio": 18
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI A3",
+        "precio": 70
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 6",
+        "precio": 18
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 2",
+        "precio": 10
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 4",
+        "precio": 10
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 5",
+        "precio": 17
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 5 PRO",
+        "precio": 17
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 6 PRO",
+        "precio": 20
+    }, 
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 7",
+        "precio": 28
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI MI 7",
+        "precio": 23
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI MI 7A",
+        "precio": 24
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 5 PLUS",
+        "precio": 20
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 8",
+        "precio": 33
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 8A",
+        "precio": 28
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 8 LITE",
+        "precio": 28
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 8",
+        "precio": 28
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 8T",
+        "precio": 20
+    }, 
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 8 PRO",
+        "precio": 33
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 9",
+        "precio": 28
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 9S / 9PRO",
+        "precio": 30
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 10 / NOTE 10 LITE CURVO",
+        "precio": 40
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NTOE 10 4G PANTALLA PLANA",
+        "precio": 50
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 10 5G",
+        "precio": 23
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 10 PRO",
+        "precio": 100
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 11 5G",
+        "precio": 35
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "NOTE 11 4G / 11S",
+        "precio": 100
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 9",
+        "precio": 32
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 9A / 9C",
+        "precio": 23
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 9T",
+        "precio": 23
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "REDMI 10",
+        "precio": 23
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 9 LITE",
+        "precio": 35
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 9SE",
+        "precio": 35
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "MI 11 LITE",
+        "precio": 60
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "POCOFONE M3",
+        "precio": 32
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "POCOFONE X3",
+        "precio": 32
+    },
+    {
+        "marca": "XIOMI",
+        "modelo": "POCOFONE F2",
+        "precio": 32
+    }
+]
